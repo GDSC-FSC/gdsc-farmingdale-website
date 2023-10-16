@@ -1,0 +1,4 @@
+{
+  "devCommand": "next dev",
+  "buildCommand": "next build"
+}
